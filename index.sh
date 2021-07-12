@@ -1,5 +1,5 @@
 maintainer="LazyPwny&ByCh4n"
-reponame="regular bash scripts for modulesh"
+reponame="regular-modules"
 
 packages=(
   "https://raw.githubusercontent.com/ByCh4n-Group/regular-modules/main"
